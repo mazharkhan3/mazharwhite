@@ -22,7 +22,6 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 ## 🎉 Connect with me
 
-<div>
   
     <a href="https://github.com/mazharwhite">
   <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
@@ -44,7 +43,6 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
   
-  </div>
 
 <br />
 
