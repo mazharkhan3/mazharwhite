@@ -52,9 +52,34 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
   </a>
 </p>
 
+### My Projects ✨:
+  
+<a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/robofriends">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Picture-Sharing-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Chat-app">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Quiz-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Quiz-Admin-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+</a>
+
 ## 📈 Github Stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
@@ -69,8 +94,6 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
 
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
