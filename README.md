@@ -42,13 +42,12 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 <a href="https://linkedin.com/in/mazharwhite">
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
-  
 
 <br />
 
 ## 🔥 My contribution streak
 
-<p align="center">
+<p>
   <a href="https://github.com/mazharwhite/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazharwhite#version3"/>
   </a>
