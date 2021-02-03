@@ -6,7 +6,7 @@ I'm a fresh graducated computer scientist and working as software engineer.<br/>
 I did an internship as a .NET Developer and mostly work on web api's and web application's through SDLC.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://ibb.co/fXzqMPW" width="400" height="280" />
+<img align="right" alt="GIF" src="https://i.ibb.co/nwN6r5y/3426526.jpg" width="400" height="400" />
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
