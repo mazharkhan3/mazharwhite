@@ -8,19 +8,19 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 <img align="right" alt="GIF" src="https://i.ibb.co/nwN6r5y/3426526.jpg" width="400" height="400" />
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
+- 🔭 I’m currently working on .NET CORE, MERN and MEAN.
+- 🌱 I’m currently Advanced programming metholodies and design patterns.
+- 👯 I’m looking to collaborate with others.
+- 🤔 I’m looking forward to Open source Contribution.
+- 💬 Ask me about any thing related to programming if need any help.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
+- ⚡ Fun fact: I 💖 to code and play cricket.
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=mazharwhite.mazharwhite)
 
 <br />
 
-<h4>Connect with me</h4>
+## 🎉 Connect with me
 
 <a href="https://github.com/mazharwhite">
   <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
@@ -52,6 +52,8 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
   </a>
 </p>
 
+<br />
+
 ### My Projects ✨:
   
 <a href="https://github.com/Davekibh/Background-generator">
@@ -77,6 +79,8 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
 </a>
+
+<br />
 
 ## 📈 Github Stats
 
