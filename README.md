@@ -58,28 +58,16 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 ### My Projects ✨:
   
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+<a href="https://github.com/mazharwhite/Repository-Pattern-ASP.NET-MVC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mazharwhite&repo=Repository-Pattern-ASP.NET-MVC&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+<a href="https://github.com/mazharwhite/eWorkShopAPI">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mazharwhite&repo=eWorkShopAPI&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+<a href="https://github.com/mazharwhite/eWorkShop-Client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mazharwhite&repo=eWorkShop-Client&theme=tokyonight" />
 </a>
 
 <br />
