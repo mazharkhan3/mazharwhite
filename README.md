@@ -2,14 +2,14 @@
 <a href="#"><img width="100%" height="20%" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" height="175px"/></a>
 
 ## 📖 About me:
-I'm a fresh graducated computer scientist and working as software engineer.<br/>
+I'm a fresh graduated computer scientist and working as software engineer.<br/>
 I did an internship as a .NET Developer and mostly work on web api's and web application's through SDLC.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
 <img align="right" alt="GIF" src="https://i.ibb.co/nwN6r5y/3426526.jpg" width="400" height="400" />
 
 - 🔭 I’m currently working on .NET CORE, MERN and MEAN.
-- 🌱 I’m currently Advanced programming metholodies and design patterns.
+- 🌱 I’m currently learning Advanced programming metholodies and design patterns.
 - 👯 I’m looking to collaborate with others.
 - 🤔 I’m looking forward to Open source Contribution.
 - 💬 Ask me about any thing related to programming if need any help.
