@@ -4,7 +4,7 @@
 ## 📖 About me:
 I'm a fresh graduated computer scientist and working as software engineer.<br/>
 I did an internship as a .NET Developer and mostly work on web api's and web application's through SDLC.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these technologies.
 
 <img align="right" alt="GIF" src="https://i.ibb.co/nwN6r5y/3426526.jpg" width="400" height="400" />
 
