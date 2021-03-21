@@ -9,7 +9,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 <img align="right" alt="GIF" src="https://i.ibb.co/nwN6r5y/3426526.jpg" width="400" height="400" />
 
 - 🔭 I’m currently working on .NET CORE, MERN and MEAN.
-- 🌱 I’m currently learning Advanced programming metholodies and design patterns.
+- 🌱 I’m currently learning advanced programming metholodies and design patterns.
 - 👯 I’m looking to collaborate with others.
 - 🤔 I’m looking forward to Open source Contribution.
 - 💬 Ask me about any thing related to programming if need any help.
